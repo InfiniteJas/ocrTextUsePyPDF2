@@ -44,6 +44,6 @@ def process_directory(directory_path, output_file):
     print(f"Обработка завершена. Результаты сохранены в {output_file}")
 
 # Использование
-input_directory = r'C:\Users\Olzhas.Alseitov\Desktop\qCloudy\DOCS Baiterek\drive-download-20240805T055821Z-001'
+input_directory = r'path'
 output_file = 'processed_documents.json'
 process_directory(input_directory, output_file)
